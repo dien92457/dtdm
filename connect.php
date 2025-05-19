@@ -1,6 +1,6 @@
 <?php
-    $server = "localhost";
-    $username = "root";
-    $password = "";
-    $database = "clothing_store";
+    $server = "mysql231.mysql.database.azure.com";
+    $username = "dien92457";
+    $password = "vinh123@";
+    $database = "mysql213";
 ?>
