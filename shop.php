@@ -157,7 +157,7 @@ session_start();
                         </div>
                         <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
                             <input type="checkbox" class="custom-control-input" id="price-1">
-                            <label class="custom-control-label" for="price-1">0 VND - 500,000 VND</label>
+                            <label class="custom-control-label" for="price-1"> 2000000000000000VND - 500,0000000000000 VND</label>
                             <span class="badge border font-weight-normal">7</span>
                         </div>
                         <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
