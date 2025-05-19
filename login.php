@@ -96,7 +96,7 @@ session_start();
                                             <i class="fas fa-cubes fa-3x me-3"></i>
                                             <span class="h1 fw-bold mb-0 logo">Logo</span>
                                         </div>
-                                        <h5 class="fw-normal mb-4">Sign into your account</h5>
+                                        <h5 class="fw-normal mb-4">Sign in</h5>
                                         <div class="form-outline mb-4">
                                             <input type="text" id="username" name="username" class="form-control form-control-lg" />
                                             <label class="form-label" for="form2Example17">Account</label>
